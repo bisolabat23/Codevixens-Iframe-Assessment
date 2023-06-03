@@ -1,0 +1,9 @@
+* {
+  box-sizing: border-box;
+}
+
+#video > iframe {
+ width: 1200px;
+ height: 700px;
+ position: absolute; 
+}
